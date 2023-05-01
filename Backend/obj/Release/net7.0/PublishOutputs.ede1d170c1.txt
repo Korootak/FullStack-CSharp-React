@@ -1,0 +1,12 @@
+C:\Users\BillyJLLove\OneDrive\Bureau\FullStack\Backend\bin\Release\net7.0\publish\Backend.exe
+C:\Users\BillyJLLove\OneDrive\Bureau\FullStack\Backend\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\BillyJLLove\OneDrive\Bureau\FullStack\Backend\bin\Release\net7.0\publish\appsettings.json
+C:\Users\BillyJLLove\OneDrive\Bureau\FullStack\Backend\bin\Release\net7.0\publish\Backend.dll
+C:\Users\BillyJLLove\OneDrive\Bureau\FullStack\Backend\bin\Release\net7.0\publish\Backend.deps.json
+C:\Users\BillyJLLove\OneDrive\Bureau\FullStack\Backend\bin\Release\net7.0\publish\Backend.runtimeconfig.json
+C:\Users\BillyJLLove\OneDrive\Bureau\FullStack\Backend\bin\Release\net7.0\publish\Backend.pdb
+C:\Users\BillyJLLove\OneDrive\Bureau\FullStack\Backend\bin\Release\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\BillyJLLove\OneDrive\Bureau\FullStack\Backend\bin\Release\net7.0\publish\Microsoft.OpenApi.dll
+C:\Users\BillyJLLove\OneDrive\Bureau\FullStack\Backend\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BillyJLLove\OneDrive\Bureau\FullStack\Backend\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BillyJLLove\OneDrive\Bureau\FullStack\Backend\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
